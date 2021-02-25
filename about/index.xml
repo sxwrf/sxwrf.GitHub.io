@@ -2,10 +2,10 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>首页</title>
-    <link>sxwrf.github.io/about/</link>
+    <link>laowu.ml/about/</link>
     <description>Recent content on 首页</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja</language>
-    <copyright>copyleft🄯 2021,山西老吴</copyright><atom:link href="sxwrf.github.io/about/index.xml" rel="self" type="application/rss+xml" />
+    <copyright>copyleft🄯 2021,山西老吴</copyright><atom:link href="laowu.ml/about/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>

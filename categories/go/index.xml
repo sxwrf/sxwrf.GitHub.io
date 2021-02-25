@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>go on 首页</title>
-    <link>sxwrf.github.io/categories/go/</link>
+    <link>laowu.ml/categories/go/</link>
     <description>Recent content in go on 首页</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja</language>
-    <copyright>copyleft🄯 2021,山西老吴</copyright><atom:link href="sxwrf.github.io/categories/go/index.xml" rel="self" type="application/rss+xml" />
+    <copyright>copyleft🄯 2021,山西老吴</copyright><atom:link href="laowu.ml/categories/go/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>go初步</title>
-      <link>sxwrf.github.io/go/c%E5%88%9D%E6%AD%A5/</link>
+      <link>laowu.ml/go/c%E5%88%9D%E6%AD%A5/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>sxwrf.github.io/go/c%E5%88%9D%E6%AD%A5/</guid>
+      <guid>laowu.ml/go/c%E5%88%9D%E6%AD%A5/</guid>
       <description>test go aaa</description>
     </item>
     
