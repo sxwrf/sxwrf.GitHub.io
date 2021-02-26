@@ -2,11 +2,26 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://www.laowu.ml/blog/test/</loc>
-    <lastmod>2021-02-26T12:21:22+08:00</lastmod>
+    <loc>http://www.laowu.ml/categories/</loc>
+    <lastmod>2021-02-26T17:25:07+08:00</lastmod>
   </url><url>
     <loc>http://www.laowu.ml/tags/</loc>
-    <lastmod>2021-02-26T11:33:52+08:00</lastmod>
+    <lastmod>2021-02-26T17:25:07+08:00</lastmod>
+  </url><url>
+    <loc>http://www.laowu.ml/categories/tets/</loc>
+    <lastmod>2021-02-26T17:25:07+08:00</lastmod>
+  </url><url>
+    <loc>http://www.laowu.ml/blog/%E6%97%A0%E5%91%B3/</loc>
+    <lastmod>2021-02-26T17:25:07+08:00</lastmod>
+  </url><url>
+    <loc>http://www.laowu.ml/categories/%E6%97%A0%E5%91%B3/</loc>
+    <lastmod>2021-02-26T17:25:07+08:00</lastmod>
+  </url><url>
+    <loc>http://www.laowu.ml/tags/%E6%97%A5%E8%AE%B0/</loc>
+    <lastmod>2021-02-26T17:25:07+08:00</lastmod>
+  </url><url>
+    <loc>http://www.laowu.ml/blog/test/</loc>
+    <lastmod>2021-02-26T12:21:22+08:00</lastmod>
   </url><url>
     <loc>http://www.laowu.ml/tags/%E5%85%B3%E4%BA%8E%E8%80%81%E5%90%B4/</loc>
     <lastmod>2021-02-26T11:33:52+08:00</lastmod>
@@ -25,7 +40,5 @@
   </url><url>
     <loc>http://www.laowu.ml/linux/</loc>
     <lastmod>2021-02-25T15:56:40+08:00</lastmod>
-  </url><url>
-    <loc>http://www.laowu.ml/categories/</loc>
   </url>
 </urlset>
