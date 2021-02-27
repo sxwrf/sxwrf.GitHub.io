@@ -1,11 +1,12 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>首页</title>
-    <link>http://www.laowu.ml/lang/</link>
-    <description>Recent content on 首页</description>
+    <title>编程 on 首页</title>
+    <link>http://www.laowu.ml/categories/%E7%BC%96%E7%A8%8B/</link>
+    <description>Recent content in 编程 on 首页</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>zh-cn</language><atom:link href="http://www.laowu.ml/lang/index.xml" rel="self" type="application/rss+xml" />
+    <language>zh-cn</language>
+    <lastBuildDate>Sat, 27 Feb 2021 08:29:06 +0800</lastBuildDate><atom:link href="http://www.laowu.ml/categories/%E7%BC%96%E7%A8%8B/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>一些编程的基础知识</title>
       <link>http://www.laowu.ml/lang/%E7%BC%96%E7%A8%8B%E5%8E%9F%E7%90%86/</link>
